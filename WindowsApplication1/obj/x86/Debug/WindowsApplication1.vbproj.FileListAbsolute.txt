@@ -1,0 +1,12 @@
+C:\Users\yagi_yo\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\yagi_yo\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\yagi_yo\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\yagi_yo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\yagi_yo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\yagi_yo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\yagi_yo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\yagi_yo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\yagi_yo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\yagi_yo\Documents\GitHub\DelegateTest\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\yagi_yo\Documents\GitHub\DelegateTest\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\yagi_yo\Documents\GitHub\DelegateTest\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
